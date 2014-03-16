@@ -8,3 +8,5 @@ License
 
 [MIT License](http://mhaidarh.mit-license.org) and [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+[![I Love Open Source](http://iloveopensource.io/images/logo-lightbg.png)](http://iloveopensource.io/users/mhaidarh)
+
