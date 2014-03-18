@@ -22,7 +22,7 @@ The METRO GROUP Future Store Initiative is a joint project including more than 7
 
 The future store is a new concepts hands on technology shop or super/hypermarket category. Its core idea may resolve new challenges that bridge between electronic commerce and ordinary dlefty life shopping. Because these days, retail industry is undergoing massive changes. So some more factors and aspects have the important role to make it better for businesses and customers. There must be also a cooperation between retail, consumer goods, information technology, service sector, and others. Some huge number of partners are taking part in developing and testing its innovative technologies and real-world concepts. Partners with various companies such as MetSAP, Intel, IBM, Cisco Systems, Fujitsu, and others to make it so.
 
-What Future Store Initiative offers? We may discuss more on the realistic side rather than conceptual side.
+What Future Store Initiative offers? What if every good technology combined together to make the ultimate commerce and retail system? We may discuss more on the realistic side rather than conceptual side.
 
 <!-- more -->
 
@@ -64,7 +64,7 @@ What it can do and we get?
 - Directs the customer to the products he needs.
 - Keeps a running total of the shopping bill.
 - Makes check-out much faster, as the customer has already scanned their purchases while shopping.
-- The data transfer process triggered from the PSA to the check-out counter automatically.
+- The data transfer process triggered from the PSA to the checkout counter automatically.
 - The receipt is printed out and the customer then pays.
 - No need to take goods out of the shopping cart and no queue.
 
@@ -82,30 +82,30 @@ According to the technical specifications from numerous partner services, it has
 ### Electronic Advertising Displays (EAD)
 
 {% img http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg 'EAD in action' %}
-A dynamic display that reliable and always up-to-date. They help customers find their way around the store and latest special offers, also provide detlefted information through videos or animations. They are centrally managed over the network through an internal wireless LAN connection.
+A dynamic display that reliable and always up-to-date. They help customers find their way around the store and latest special offers, also provide detlefted information through videos or animations. They are centrally managed over the network through an internal wireless LAN connection. There's a chance that if it's presented like this, it could be more interesting.
 
 ### Information Terminals
 
 {% img http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg 'Information Terminals' %}
-Or infoterminals. Like a computerized catalogs. They provide a wealth and detlefts of information about all the products, even the manufacturing process, ingredients, and selling price. Also with additional useful household and health tips, such as recipes and tips. And obviously where to find them.
+Or infoterminals. Like a computerized catalogs. They provide a wealth and detlefts of information about all the products, even the manufacturing process, ingredients, and selling price. Also with additional useful household and health tips, such as recipes and tips. And obviously where to find  them.
 
 ### Electronic Price Labels
 
 {% img http://spectrum.ieee.org/images/apr04/images/0404nsuperf2.jpg 'Electronic Price Labels' %}
-Officially called Electronic Shelf Labeling (ESL) System with digital LC displays, communicate through a separate wireless network using Communication Base Stations (CBS). So they're a far better accurate and always updated price labels.
+Officially called Electronic Shelf Labeling (ESL) System with digital LC displays, communicate through a separate wireless network using Communication Base Stations (CBS). So they're a far better accurate and always updated price labels. No this is one of the most useful and convenient way to put a price label.
 
 ### Intelligent Scales
 
 {% img http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163597_scale203m.jpg "IBM's Veggie Vision: Intelligent Scales" %}
 Automatically recognizes what type of food (fruit or vegetable) is being weighed, also look for the product symbol. So just place the product on the scale, then a label is automatically printed out. They're linked to the electronic point of sale (EPOS) controller via the store’s wireless network.
 
-### Self Check-out
+### Self Checkout
 
-{% img https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg 350 'FastLane check-out' %}
-{% img http://kantarretailiq.eu/Content/Render/508012.jpeg 350 'Self check-out' %}
--- [FastLane check-out branding by Mark Magnusson](https://www.behance.net/gallery/Future-Store-Initiative/707414)
+{% img https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg 360 'FastLane checkout' %}
+{% img http://kantarretailiq.eu/Content/Render/508012.jpeg 360 'Self checkout' %}
+[FastLane checkout branding by Mark Magnusson](https://www.behance.net/gallery/Future-Store-Initiative/707414)
 and
--- [Self check-out system](http://kantarretailiq.eu/Conversation/ConversationDetails.aspx?id=508014)
+[Self checkout system](http://kantarretailiq.eu/Conversation/ConversationDetails.aspx?id=508014)
 
 Simply swipe each item over the scanner and place it in a shopping bag. Then just pay with two payment options:
 
@@ -125,7 +125,7 @@ Not to be confused with MSA or PSA, of course. It's for the store employees. So 
 {% img http://economists-pick-research.hktdc.com/resources/MI_Portal/Article/imn/2004/02/38561/retail089r.jpg %}
 The name explains themselves.
 
-### Radio-frequency identification (RFID)
+### Radio-Frequency Identification (RFID)
 
 RFID, RFID Reader, RFID transponder, RFID everywhere, and much more RFIDs. Almost all the above technologies and products use RFID. How it works in the context of Future Store? [Read more in their site](http://www.future-store.org/internet/site/ts_fsi/node/140064/Len/index.html). More into how it works can be [read in HowStuffWorks](http://electronics.howstuffworks.com/gadgets/high-tech-gadgets/rfid.htm).
 
