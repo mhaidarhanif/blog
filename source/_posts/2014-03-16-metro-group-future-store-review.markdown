@@ -4,8 +4,12 @@ author: M Haidar Hanif
 title: "Metro Group's Future Store Initiative: The Review"
 date: 2014-03-16 06:00:00 +0700
 comments: false
-categories: [Commerce, HCI, Review, Technology]
-keywords: hci,human,computer,interaction,commerce,store,technology,review,big data
+categories:
+- Commerce
+- HCI
+- Technology
+- Review
+keywords: hci, human, computer, interaction, commerce, store, big data, technology, review
 ---
 
 Innovation Background
@@ -181,7 +185,8 @@ It may actually help and boost customer with shopping experience. It's easier an
 
 The innovation and technology of futuristic store from Metro Group in the ubiquitous cloud computing era.
 
-# Additional Links
+Additional Links
+================
 
 - [Future Store – Wikipedia](https://de.wikipedia.org/wiki/Future_Store)
 - [real,- Future Store | Super/hypermarket in Tönisvorst (DE)](http://retail-square.com/shops/real-future-store)
