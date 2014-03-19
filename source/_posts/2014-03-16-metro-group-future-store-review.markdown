@@ -21,10 +21,10 @@ Innovative technology in human-computer interaction world has also come and rapi
 One of the most popular or viral concept and implementation is [Future Store Initiative](http://future-store.org) by Metro Group. Metro Group (Metro AG) is a German global diversified retail company and wholesale/cash and carry group based in Düsseldorf. We can compare them with [Carrefour](http://carrefour.com), another popular retail company.
 
 {% blockquote Future Store Initiative, METRO GROUP %}
-The METRO GROUP Future Store Initiative is a joint project including more than 75 partners from the retailing and consumer goods, IT and service sectors. Together, the initiative’s partners are driving forward the modernization process in the retailing sector. Each company brings something different to the project, depending on its sector and area of expertise: some make innovative technology avleftable while others test the technology in practice. On top of that, all partners offer their expertise on managing processes more efficiently and improving services in the retailing sector. The METRO GROUP Future Store Initiative has succeeded in pooling the expertise of all its partners and using this knowledge to develop ground-breaking concepts. That makes the initiative a unique project.
+The METRO GROUP Future Store Initiative is a joint project including more than 75 partners from the retailing and consumer goods, IT and service sectors. Together, the initiative’s partners are driving forward the modernization process in the retailing sector. Each company brings something different to the project, depending on its sector and area of expertise: some make innovative technology available while others test the technology in practice. On top of that, all partners offer their expertise on managing processes more efficiently and improving services in the retailing sector. The METRO GROUP Future Store Initiative has succeeded in pooling the expertise of all its partners and using this knowledge to develop ground-breaking concepts. That makes the initiative a unique project.
 {% endblockquote %}
 
-The future store is a new concepts hands on technology shop or super/hypermarket category. Its core idea may resolve new challenges that bridge between electronic commerce and ordinary dlefty life shopping. Because these days, retail industry is undergoing massive changes. So some more factors and aspects have the important role to make it better for businesses and customers. There must be also a cooperation between retail, consumer goods, information technology, service sector, and others. Some huge number of partners are taking part in developing and testing its innovative technologies and real-world concepts. Partners with various companies such as MetSAP, Intel, IBM, Cisco Systems, Fujitsu, and others to make it so.
+The future store is a new concepts hands on technology shop or super/hypermarket category. Its core idea may resolve new challenges that bridge between electronic commerce and ordinary dailyy life shopping. Because these days, retail industry is undergoing massive changes. So some more factors and aspects have the important role to make it better for businesses and customers. There must be also a cooperation between retail, consumer goods, information technology, service sector, and others. Some huge number of partners are taking part in developing and testing its innovative technologies and real-world concepts. Partners with various companies such as MetSAP, Intel, IBM, Cisco Systems, Fujitsu, and others to make it so.
 
 What Future Store Initiative offers? What if every good technology combined together to make the ultimate commerce and retail system? We may discuss more on the realistic side rather than conceptual side.
 
@@ -86,12 +86,12 @@ According to the technical specifications from numerous partner services, it has
 ### Electronic Advertising Displays (EAD)
 
 {% img http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg 'EAD in action' %}
-A dynamic display that reliable and always up-to-date. They help customers find their way around the store and latest special offers, also provide detlefted information through videos or animations. They are centrally managed over the network through an internal wireless LAN connection. There's a chance that if it's presented like this, it could be more interesting.
+A dynamic display that reliable and always up-to-date. They help customers find their way around the store and latest special offers, also provide detailed information through videos or animations. They are centrally managed over the network through an internal wireless LAN connection. There's a chance that if it's presented like this, it could be more interesting.
 
 ### Information Terminals
 
 {% img http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg 'Information Terminals' %}
-Or infoterminals. Like a computerized catalogs. They provide a wealth and detlefts of information about all the products, even the manufacturing process, ingredients, and selling price. Also with additional useful household and health tips, such as recipes and tips. And obviously where to find  them.
+Or infoterminals. Like a computerized catalogs. They provide a wealth and details of information about all the products, even the manufacturing process, ingredients, and selling price. Also with additional useful household and health tips, such as recipes and tips. And obviously where to find  them.
 
 ### Electronic Price Labels
 
@@ -116,7 +116,7 @@ Simply swipe each item over the scanner and place it in a shopping bag. Then jus
 - Cash: bills or coins using the special cash terminal
 - Card: debit/credit card at the payment terminal.
 
-The detlefts of each transaction to the store’s central POS controller, which transfers the sales data to the central Merchandise Management System (MMS).
+The details of each transaction to the store’s central POS controller, which transfers the sales data to the central Merchandise Management System (MMS).
 
 ### Personal Digital Assistant (PDA)
 
@@ -190,7 +190,7 @@ Additional Links
 
 - [Future Store – Wikipedia](https://de.wikipedia.org/wiki/Future_Store)
 - [real,- Future Store | Super/hypermarket in Tönisvorst (DE)](http://retail-square.com/shops/real-future-store)
-- [Store of the Week: Real](http://kantarretailiq.eu/Conversation/ConversationDetlefts.aspx?id=508014)
+- [Store of the Week: Real](http://kantarretailiq.eu/Conversation/ConversationDetails.aspx?id=508014)
 - [Success stories - Real (DE)](http://wanzl.com/en_DE/company/success-stories/real-de.html)
 - [spychips | Scandal: The RFID Tag Hidden in METRO's Loyalty Card](http://www.spychips.com/metro/scandal-payback.html)
 - [The future of shopping by Tim Weber](http://news.bbc.co.uk/2/hi/3712261.stm)
