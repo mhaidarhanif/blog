@@ -4,7 +4,7 @@
   <title><![CDATA[Topics: Robot | M Haidar Hanif | Blog]]></title>
   <link href="http://mhaidarhanif.org/blog/topics/robot/atom.xml" rel="self"/>
   <link href="http://mhaidarhanif.org/blog/"/>
-  <updated>2014-03-21T23:10:59+07:00</updated>
+  <updated>2014-03-24T00:02:07+07:00</updated>
   <id>http://mhaidarhanif.org/blog/</id>
   <author>
     <name><![CDATA[M Haidar Hanif]]></name>
@@ -18,91 +18,100 @@
     <link href="http://mhaidarhanif.org/blog/wall-e-the-review/"/>
     <updated>2014-03-19T09:00:00+07:00</updated>
     <id>http://mhaidarhanif.org/blog/wall-e-the-review</id>
-    <content type="html"><![CDATA[<h1>Intro</h1>
+    <content type="html"><![CDATA[<p>{% img center <a href="http://www.pixar.com/sites/default/files/walle_billboards_v2_title_0.jpg">http://www.pixar.com/sites/default/files/walle_billboards_v2_title_0.jpg</a> &lsquo;WALL-E Title&rsquo; %}</p>
 
-<ul>
-<li>World</li>
-</ul>
+<h1>The Intro</h1>
 
+<p>WALL•E is a 3D animated sci-fi feature film by Disney Pixar, mainly tells about saving the world and a love story of robots. It&rsquo;s directed by Andrew Stanton, the man behind various Pixar films. Toy Story. A Bug&rsquo;s Life. Monsters, Inc. Finding Nemo. The Incredibles. Cars. Well, you name it.</p>
 
-<p>Time Setting</p>
+<p>Never watched it? Here&rsquo;s the official trailer. Already watched it? Watch it again anyway, it&rsquo;s fun. :)</p>
 
-<ul>
-<li>The world is set in the distant future, around more than 700 years after now.</li>
-<li>Total dystopian future on Earth, even on Earth&rsquo;s Moon.</li>
-<li>Kind of utopian future in space (the Axiom)</li>
-<li><p>Finally a normal future on Earth.</p></li>
-<li><p>Story</p>
+<p>{% youtube alIq_wG9FNk %}</p>
 
-<ul>
-<li>WALL•E, the movie&rsquo;s name.</li>
-<li>Science fiction.</li>
-</ul>
-</li>
-</ul>
-
-
-<h1>Characters</h1>
-
-<ul>
-<li>WALL•E (<strong>W</strong>aste <strong>A</strong>llocation <strong>L</strong>oad <strong>L</strong>ifter: <strong>E</strong>arth-Class)
-Wheeler-type robot</li>
-</ul>
-
-
-<p>{% img right <a href="http://j.mp/1orIsIp">http://j.mp/1orIsIp</a> &lsquo;WALL-E Picture&rsquo; %}</p>
-
-<ul>
-<li><p>EVE (<strong>E</strong>xtraterrestrial <strong>V</strong>egetation <strong>E</strong>valuator)
-Hover probe-type robot</p></li>
-<li><p>Both of these characters like resemble Adam and Eve.</p></li>
-<li><p>Various Robots</p></li>
-<li><p>Beyond artificial intelligence (AI)</p>
-
-<ul>
-<li>Almost all machines are all automatically controlled.</li>
-<li>The robots could move smoothly, think, express, behave, sense, feel, and even love and understand it like human. Also, have a specific gender and sound with half speaking ability.</li>
-<li>Although most of the robots are not humanoid.</li>
-<li>Perfected ubiquoutus computing and ambient intelligence (AmI).</li>
-</ul>
-</li>
-</ul>
-
+<p>What&rsquo;s so interesting about this film? There&rsquo;re a lot actually.</p>
 
 <!-- more -->
 
 
-<h1>Interaction</h1>
+<p>{% img center <a href="http://www.pixar.com/sites/default/files/walle_billboards_v2_world_v2_0.jpg">http://www.pixar.com/sites/default/files/walle_billboards_v2_world_v2_0.jpg</a> &lsquo;WALL-E Space World&rsquo; %}</p>
 
-<p>WALL•E with</p>
+<h2>The World</h2>
 
-<p>EVE with her scanning sensor/device.</p>
+<p>The world is set in the distant future, around 2805 A.D. when Earth is literally has a lot of mountains of trash. When the film goes through, the condition has three main states:</p>
 
-<p>Mostly with voice command</p>
+<ol>
+<li>Total dystopian future on Earth, even on Earth&rsquo;s Moon.</li>
+<li>Kind of ironic utopian future in space (the Axiom)</li>
+<li>Finally a normal future on Earth.</li>
+</ol>
+
+
+<h2>The (Main) Characters</h2>
+
+<p>WALL•E (<strong>W</strong>aste <strong>A</strong>llocation <strong>L</strong>oad <strong>L</strong>ifter: <strong>E</strong>arth-Class). He&rsquo;s a wheeler-type robot and somehow has the personality or human-like way of thinking. Fueled by the sun and fun.</p>
+
+<p>{% img right <a href="http://j.mp/1orIsIp">http://j.mp/1orIsIp</a> &lsquo;WALL-E Picture&rsquo; %}</p>
+
+<p>EVE (<strong>E</strong>xtraterrestrial <strong>V</strong>egetation <strong>E</strong>valuator). She&rsquo;s a hover probe droid-type robot. Subsequently along with WALL•E, she also has a personality. Sweet.</p>
+
+<p>{% img left <a href="http://j.mp/OO2jEN">http://j.mp/OO2jEN</a> &lsquo;EVE Picture&rsquo; %}</p>
+
+<p>Both of these characters like resemble the Adam and Eve of the Pixar&rsquo;s Earth, if we can relate. Aside, there are a lot of various robots specifically built for a few purposes. Notice how the robots' appearance really kind of human-friendly than a real common robots. In this film, humans are just an extras, if we can say so.</p>
+
+<p>{% img center <a href="http://j.mp/Q4vMLX">http://j.mp/Q4vMLX</a> &lsquo;Inside Axiom&rsquo; %}</p>
+
+<h1>Interaction and Interface</h1>
+
+<h2>Film World Context</h2>
+
+<p>Summed up, here are what the main characters interact with, along with the specific interface if they have it:</p>
+
+<ol>
+<li>WALL•E with&hellip; his human-like senses. Well, the glitch in WALL•E made him think outside his box (<em>pun intended</em>). His main directive is to compact trash with his technologies: Construction, Regeneration Unit, Control System, and Trash Disposal.</li>
+<li>EVE with her scanning sensor/device. Her point of view interface really has all the information she need. Her main directive is to get a vegetation (or plant) and bring it to Axiom so humans could get home (or Earth). She got modern technologies and also some additions: Investigator? Check. Maps? Check. Wait, plasma gun? Check.</li>
+<li>Humans, mostly with their voice command. Their hover/floating chair also gives the capability to control devices and robots.</li>
+</ol>
+
+
+<p>In this film, everything in the robots is beyond artificial intelligence (AI). How, what they have?</p>
+
+<ul>
+<li>Specific gender and sound with half speaking ability.</li>
+<li>Almost all machines are all automatically controlled and have their own free mind.</li>
+<li>Although most of the robots are not humanoid, but have human-like personality.</li>
+<li>So responsive and perfected ubiquoutus computing and ambient intelligence (AmI) inside them.</li>
+<li>The robots could move smoothly, think, express, behave, sense, feel, and even love and understand it like human.</li>
+</ul>
+
+
+<p>{% img center <a href="http://j.mp/1eBBxsU">http://j.mp/1eBBxsU</a> &lsquo;Axiom Passenger First Class&rsquo; %}</p>
+
+<h2>Real World Context</h2>
+
+<p>In the context of realistic Human-Computer Interaction, the film take it beyond and more than ordinary. Obviously&ndash;if we&rsquo;re being very realistic&ndash;that wouldn&rsquo;t really happened. In science fiction world, everything we can imagine about the interaction and interface would actually work well. Even so, we can imagine and relate the real world if we&rsquo;re going out of control of the technology, almost everything could go worse. But otherwise, everything could go better and humanity&ndash;or we&ndash;could still has the control of our own world.</p>
 
 <h1><abbr title="Too Long; Didn't Read">TL;DR</abbr></h1>
 
-<p>The interaction between human and robots in the future, based on WALL-E movie.</p>
+<p>The interaction between human and robots in the future, based on WALL-E film.</p>
 
 <h1>Additional Links</h1>
 
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/WALL-E">WALL-E - Wikipedia</a></li>
 <li><a href="http://pixar.com/features_films/WALLE">Pixar - WALL-E</a></li>
-<li><a href="http://pixar.wikia.com/WALL%E2%80%A2E">WALL-E - Pixar Wiki</a>
-
-<ul>
+<li><a href="http://pixar.wikia.com/WALL%E2%80%A2E">WALL-E - Pixar Wiki</a></li>
 <li><a href="http://pixar.wikia.com/WALL%E2%80%A2E_(character">WALL•E (character) - Pixar Wiki</a>)</li>
 <li><a href="http://pixar.wikia.com/EVE">EVE - Pixar Wiki</a></li>
-</ul>
-</li>
 <li><a href="http://rottentomatoes.com/m/wall_e/">WALL-E - Rotten Tomatoes</a></li>
 <li><a href="http://imdb.com/title/tt0910970/">WALL·E (2008) - IMDb</a></li>
-<li><p><a href="http://jonnegroni.com/2013/07/11/the-pixar-theory">The Pixar Theory | Jon Negroni</a></p></li>
-<li><p><a href="https://en.wikipedia.org/wiki/Dystopia">Dystopia - Wikipedia</a></p></li>
+<li><a href="http://thisdistractedglobe.com/2010/11/01/wall-e/">This Distracted Globe - Caution: Rogue Robots</a></li>
+<li><a href="http://jonnegroni.com/2013/07/11/the-pixar-theory">Jon Negroni - The Pixar Theory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dystopia">Dystopia - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Utopia">Utopia - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ubiquitous_computing">Ubiquitous computing - Wikipedia</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Ambient_intelligence">Ambient intelligence - Wikipedia</a></li>
+<li><a href="https://youtube.com/WallEMovie">WALL•E Movie YouTube Channel</a></li>
+<li><a href="http://youtu.be/7oVSaUWeKt0">Tested - Making a Real Life-Size Wall-E Robot (Geek Week!)</a></li>
 </ul>
 
 ]]></content>
