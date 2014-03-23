@@ -7,10 +7,6 @@ single: true
 <article class="hentry" role="article">
   {% include article.html %}
   <footer>
-  
-    <h1>Related Posts</h1>
-    <div id="nrelate_related_placeholder"></div> <script async id="nrelate_loader_script" type="text/javascript" src="http://static.nrelate.com/common_js/0.52.1/loader.min.js"></script>
-  
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
     {% endunless %}
