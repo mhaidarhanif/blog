@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Topics: Future | M Haidar Hanif | Blog]]></title>
-  <link href="http://mhaidarhanif.org/blog/topics/future/atom.xml" rel="self"/>
-  <link href="http://mhaidarhanif.org/blog/"/>
-  <updated>2014-03-24T00:02:07+07:00</updated>
-  <id>http://mhaidarhanif.org/blog/</id>
+  <link href="http://mhaidarhanif.org/blog//topics/future/atom.xml" rel="self"/>
+  <link href="http://mhaidarhanif.org/blog//"/>
+  <updated>2014-03-25T11:11:24+07:00</updated>
+  <id>http://mhaidarhanif.org/blog//</id>
   <author>
     <name><![CDATA[M Haidar Hanif]]></name>
     <email><![CDATA[mhaidarhanif@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[WALL·E: The Review]]></title>
-    <link href="http://mhaidarhanif.org/blog/wall-e-the-review/"/>
+    <link href="http://mhaidarhanif.org/blog//wall-e-the-review/"/>
     <updated>2014-03-19T09:00:00+07:00</updated>
-    <id>http://mhaidarhanif.org/blog/wall-e-the-review</id>
+    <id>http://mhaidarhanif.org/blog//wall-e-the-review</id>
     <content type="html"><![CDATA[<p>{% img center <a href="http://www.pixar.com/sites/default/files/walle_billboards_v2_title_0.jpg">http://www.pixar.com/sites/default/files/walle_billboards_v2_title_0.jpg</a> &lsquo;WALL-E Title&rsquo; %}</p>
 
 <h1>The Intro</h1>

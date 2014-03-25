@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Topics: Commerce | M Haidar Hanif | Blog]]></title>
-  <link href="http://mhaidarhanif.org/blog/topics/commerce/atom.xml" rel="self"/>
-  <link href="http://mhaidarhanif.org/blog/"/>
-  <updated>2014-03-24T00:02:06+07:00</updated>
-  <id>http://mhaidarhanif.org/blog/</id>
+  <link href="http://mhaidarhanif.org/blog//topics/commerce/atom.xml" rel="self"/>
+  <link href="http://mhaidarhanif.org/blog//"/>
+  <updated>2014-03-25T11:11:24+07:00</updated>
+  <id>http://mhaidarhanif.org/blog//</id>
   <author>
     <name><![CDATA[M Haidar Hanif]]></name>
     <email><![CDATA[mhaidarhanif@gmail.com]]></email>
@@ -15,17 +15,19 @@
   
   <entry>
     <title type="html"><![CDATA[Metro Group's Future Store Initiative: The Review]]></title>
-    <link href="http://mhaidarhanif.org/blog/metro-group-future-store-review/"/>
+    <link href="http://mhaidarhanif.org/blog//metro-group-future-store-review/"/>
     <updated>2014-03-16T06:00:00+07:00</updated>
-    <id>http://mhaidarhanif.org/blog/metro-group-future-store-review</id>
+    <id>http://mhaidarhanif.org/blog//metro-group-future-store-review</id>
     <content type="html"><![CDATA[<h1>Innovation Background</h1>
 
 <p>Innovative technology in human-computer interaction world has also come and rapidly changing on how people do business. One of the significant change is in technology shop, convenience store, or retail industry. That is, a huge chance in making huge change in order to develop it better and have the advantage of it.</p>
 
-<p><img class="center <a" src="href="http://www.weiterleitung.metrogroup.de/metrogroup_logo.gif">http://www.weiterleitung.metrogroup.de/metrogroup_logo.gif</a>" title="&lsquo;METRO GROUP Logo&rsquo;" >
+<p>{% img center <a href="http://www.weiterleitung.metrogroup.de/metrogroup_logo.gif">http://www.weiterleitung.metrogroup.de/metrogroup_logo.gif</a> &lsquo;METRO GROUP Logo&rsquo; %}
 One of the most popular or viral concept and implementation is <a href="http://future-store.org">Future Store Initiative</a> by Metro Group. Metro Group (Metro AG) is a German global diversified retail company and wholesale/cash and carry group based in Düsseldorf. We can compare them with <a href="http://carrefour.com">Carrefour</a>, another popular retail company.</p>
 
-<p><blockquote><p>The METRO GROUP Future Store Initiative is a joint project including more than 75 partners from the retailing and consumer goods, IT and service sectors. Together, the initiative’s partners are driving forward the modernization process in the retailing sector. Each company brings something different to the project, depending on its sector and area of expertise: some make innovative technology available while others test the technology in practice. On top of that, all partners offer their expertise on managing processes more efficiently and improving services in the retailing sector. The METRO GROUP Future Store Initiative has succeeded in pooling the expertise of all its partners and using this knowledge to develop ground-breaking concepts. That makes the initiative a unique project.</p><footer><strong>Future Store Initiative</strong> <cite>METRO GROUP</cite></footer></blockquote></p>
+<p>{% blockquote Future Store Initiative, METRO GROUP %}
+The METRO GROUP Future Store Initiative is a joint project including more than 75 partners from the retailing and consumer goods, IT and service sectors. Together, the initiative’s partners are driving forward the modernization process in the retailing sector. Each company brings something different to the project, depending on its sector and area of expertise: some make innovative technology available while others test the technology in practice. On top of that, all partners offer their expertise on managing processes more efficiently and improving services in the retailing sector. The METRO GROUP Future Store Initiative has succeeded in pooling the expertise of all its partners and using this knowledge to develop ground-breaking concepts. That makes the initiative a unique project.
+{% endblockquote %}</p>
 
 <p>The future store is a new concepts hands on technology shop or super/hypermarket category. Its core idea may resolve new challenges that bridge between electronic commerce and ordinary dailyy life shopping. Because these days, retail industry is undergoing massive changes. So some more factors and aspects have the important role to make it better for businesses and customers. There must be also a cooperation between retail, consumer goods, information technology, service sector, and others. Some huge number of partners are taking part in developing and testing its innovative technologies and real-world concepts. Partners with various companies such as MetSAP, Intel, IBM, Cisco Systems, Fujitsu, and others to make it so.</p>
 
@@ -36,15 +38,15 @@ One of the most popular or viral concept and implementation is <a href="http://f
 
 <p>Let&rsquo;s watch the presentational and actual videos. Or for actual readers, there&rsquo;s a white paper titled <a href="http://chainlinkresearch.com/parallaxview/whitepapers/Welcome_to_the_future_store.pdf">&ldquo;Welcome to the Future Store&rdquo; (PDF)</a>.</p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/bV-4phC2rvU "></iframe></div>
+<p>{% youtube bV-4phC2rvU %}
 &ndash; <a href="http://youtu.be/bV-4phC2rvU">Metro Future Stores (jogundosekun on YouTube)</a></p>
 
-<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/rZzls3VH678 "></iframe></div>
+<p>{% youtube rZzls3VH678 %}
 &ndash; <a href="http://youtu.be/rZzls3VH678">real,- Future Store (Saksanjutut on YouTube)</a></p>
 
 <h1>A Virtual Tour of the Future Store</h1>
 
-<p><img class="<a" src="href="http://www.wanzl.com/uploads/pics/Real_erfolgsgeschichte_FutureStore_540_web_01.jpg">http://www.wanzl.com/uploads/pics/Real_erfolgsgeschichte_FutureStore_540_web_01.jpg</a>" width="730" title="&lsquo;real,- Future Store front building&rsquo;" >
+<p>{% img <a href="http://www.wanzl.com/uploads/pics/Real_erfolgsgeschichte_FutureStore_540_web_01.jpg">http://www.wanzl.com/uploads/pics/Real_erfolgsgeschichte_FutureStore_540_web_01.jpg</a> 730 &lsquo;real,- Future Store front building&rsquo; %}
 &ndash; <a href="http://wanzl.com/en_DE/company/success-stories/real-de.html">The real,- Future Store in Tönisvorst (Wanzl)</a></p>
 
 <p>(Yes, &ldquo;real,-&rdquo; rather than &ldquo;Real&rdquo; it is.)</p>
@@ -59,7 +61,7 @@ One of the most popular or viral concept and implementation is <a href="http://f
 
 <h3>Mobile Shopping Assistant (MSA)</h3>
 
-<p><img class="<a" src="href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163605_psa203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163605_psa203m.jpg</a>" title="&lsquo;MSA or PSA in Tablet PC&rsquo;" >
+<p>{% img <a href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163605_psa203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163605_psa203m.jpg</a> &lsquo;MSA or PSA in Tablet PC&rsquo; %}
 Or Personal Shopping Assistant (PSA) is the convenient, user-friendly computer on the shopping cart.</p>
 
 <p>What it can do and we get?</p>
@@ -93,28 +95,28 @@ Or Personal Shopping Assistant (PSA) is the convenient, user-friendly computer o
 
 <h3>Electronic Advertising Displays (EAD)</h3>
 
-<p><img class="<a" src="href="http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg">http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg</a>" title="&lsquo;EAD in action&rsquo;" >
+<p>{% img <a href="http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg">http://photos1.blogger.com/blogger/6167/2089/320/FSI-Technologien_AdvertisingDisplays.jpg</a> &lsquo;EAD in action&rsquo; %}
 A dynamic display that reliable and always up-to-date. They help customers find their way around the store and latest special offers, also provide detailed information through videos or animations. They are centrally managed over the network through an internal wireless LAN connection. There&rsquo;s a chance that if it&rsquo;s presented like this, it could be more interesting.</p>
 
 <h3>Information Terminals</h3>
 
-<p><img class="<a" src="href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg</a>" title="&lsquo;Information Terminals&rsquo;" >
+<p>{% img <a href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163603_infoterminal203m.jpg</a> &lsquo;Information Terminals&rsquo; %}
 Or infoterminals. Like a computerized catalogs. They provide a wealth and details of information about all the products, even the manufacturing process, ingredients, and selling price. Also with additional useful household and health tips, such as recipes and tips. And obviously where to find  them.</p>
 
 <h3>Electronic Price Labels</h3>
 
-<p><img class="<a" src="href="http://spectrum.ieee.org/images/apr04/images/0404nsuperf2.jpg">http://spectrum.ieee.org/images/apr04/images/0404nsuperf2.jpg</a>" title="&lsquo;Electronic Price Labels&rsquo;" >
+<p>{% img <a href="http://spectrum.ieee.org/images/apr04/images/0404nsuperf2.jpg">http://spectrum.ieee.org/images/apr04/images/0404nsuperf2.jpg</a> &lsquo;Electronic Price Labels&rsquo; %}
 Officially called Electronic Shelf Labeling (ESL) System with digital LC displays, communicate through a separate wireless network using Communication Base Stations (CBS). So they&rsquo;re a far better accurate and always updated price labels. No this is one of the most useful and convenient way to put a price label.</p>
 
 <h3>Intelligent Scales</h3>
 
-<p><img class="<a" src="href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163597_scale203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163597_scale203m.jpg</a>" title="&ldquo;IBM&rsquo;s Veggie Vision: Intelligent Scales&rdquo;" >
+<p>{% img <a href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163597_scale203m.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163597_scale203m.jpg</a> &ldquo;IBM&rsquo;s Veggie Vision: Intelligent Scales&rdquo; %}
 Automatically recognizes what type of food (fruit or vegetable) is being weighed, also look for the product symbol. So just place the product on the scale, then a label is automatically printed out. They&rsquo;re linked to the electronic point of sale (EPOS) controller via the store’s wireless network.</p>
 
 <h3>Self Checkout</h3>
 
-<p><img class="<a" src="href="https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg">https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg</a>" width="360" title="&lsquo;FastLane checkout&rsquo;" >
-<img class="<a" src="href="http://kantarretailiq.eu/Content/Render/508012.jpeg">http://kantarretailiq.eu/Content/Render/508012.jpeg</a>" width="360" title="&lsquo;Self checkout&rsquo;" >
+<p>{% img <a href="https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg">https://m1.behance.net/rendition/modules/4124267/disp/dcf80744ab7bfa2ab69c471b1717e4ea.jpg</a> 360 &lsquo;FastLane checkout&rsquo; %}
+{% img <a href="http://kantarretailiq.eu/Content/Render/508012.jpeg">http://kantarretailiq.eu/Content/Render/508012.jpeg</a> 360 &lsquo;Self checkout&rsquo; %}
 <a href="https://www.behance.net/gallery/Future-Store-Initiative/707414">FastLane checkout branding by Mark Magnusson</a>
 and
 <a href="http://kantarretailiq.eu/Conversation/ConversationDetails.aspx?id=508014">Self checkout system</a></p>
@@ -131,13 +133,13 @@ and
 
 <h3>Personal Digital Assistant (PDA)</h3>
 
-<p><img class="<a" src="href="http://plstorebrands.com/images/plmag/pli_fall2003/features/1b.jpg">http://plstorebrands.com/images/plmag/pli_fall2003/features/1b.jpg</a>" title="Employee&rsquo;s PDA" >
+<p>{% img <a href="http://plstorebrands.com/images/plmag/pli_fall2003/features/1b.jpg">http://plstorebrands.com/images/plmag/pli_fall2003/features/1b.jpg</a> Employee&rsquo;s PDA %}
 Not to be confused with MSA or PSA, of course. It&rsquo;s for the store employees. So they can communicate more flexibly and efficiently, access the merchandise management system, check stock levels anytime, examine each shelf to monitor expiration dates, and much more. Also yes, it&rsquo;s equipped with an RFID reader.</p>
 
 <h3>Smart Shelves</h3>
 
-<p><img class="<a" src="href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163601_gilette_rfidbox203.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163601_gilette_rfidbox203.jpg</a>" title="&ldquo;Smart shelves with radio tags&rdquo;" >
-<img class="<a" src="href="http://economists-pick-research.hktdc.com/resources/MI_Portal/Article/imn/2004/02/38561/retail089r.jpg">http://economists-pick-research.hktdc.com/resources/MI_Portal/Article/imn/2004/02/38561/retail089r.jpg</a>">
+<p>{% img <a href="http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163601_gilette_rfidbox203.jpg">http://newsimg.bbc.co.uk/media/images/40163000/jpg/_40163601_gilette_rfidbox203.jpg</a> &ldquo;Smart shelves with radio tags&rdquo; %}
+{% img <a href="http://economists-pick-research.hktdc.com/resources/MI_Portal/Article/imn/2004/02/38561/retail089r.jpg">http://economists-pick-research.hktdc.com/resources/MI_Portal/Article/imn/2004/02/38561/retail089r.jpg</a> %}
 The name explains themselves.</p>
 
 <h3>Radio-Frequency Identification (RFID)</h3>
@@ -159,16 +161,16 @@ The name explains themselves.</p>
 
 <p>There are absolutely much more features beyond those.</p>
 
-<p><img class="<a" src="href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a>" width="225" height="300" title="&lsquo;Roger the Robot&rsquo;" >
-<img class="<a" src="href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a>" width="225" height="300" title="&lsquo;Roger the Robot&rsquo;" >
-<img class="<a" src="href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a>" width="225" height="300" title="&lsquo;Roger the Robot&rsquo;" ></p>
+<p>{% img <a href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a> 225 300 &lsquo;Roger the Robot&rsquo; %}
+{% img <a href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a> 225 300 &lsquo;Roger the Robot&rsquo; %}
+{% img <a href="http://kantarretailiq.eu/Content/Render/508013.jpeg">http://kantarretailiq.eu/Content/Render/508013.jpeg</a> 225 300 &lsquo;Roger the Robot&rsquo; %}</p>
 
 <ul>
 <li>Robots. Yes, interesting.</li>
 </ul>
 
 
-<p><img class="<a" src="href="http://www.spychips.com/metro/images/payback-card-large.jpg">http://www.spychips.com/metro/images/payback-card-large.jpg</a>" width="250">
+<p>{% img <a href="http://www.spychips.com/metro/images/payback-card-large.jpg">http://www.spychips.com/metro/images/payback-card-large.jpg</a> 250 %}
 &ndash; <a href="http://www.spychips.com/metro/scandal-payback.html">METRO&rsquo;s Loyalty Card</a></p>
 
 <ul>
@@ -186,7 +188,7 @@ The name explains themselves.</p>
 
 <p>Please noted that it was developed, released or opened at circa 2003. So the interface may more represents the functional aspect with Web 2.0 design. This is the enhanced version of most common UI in the store.</p>
 
-<p><img class="<a" src="href="https://m1.behance.net/rendition/modules/4124263/disp/5d2dc9cf66926d500bc4523d041ff0cf.jpg">https://m1.behance.net/rendition/modules/4124263/disp/5d2dc9cf66926d500bc4523d041ff0cf.jpg</a>" width="730" title="Common Future Store UI" >
+<p>{% img <a href="https://m1.behance.net/rendition/modules/4124263/disp/5d2dc9cf66926d500bc4523d041ff0cf.jpg">https://m1.behance.net/rendition/modules/4124263/disp/5d2dc9cf66926d500bc4523d041ff0cf.jpg</a> 730 Common Future Store UI %}
 &ndash; <a href="https://www.behance.net/gallery/Future-Store-Initiative/707414">Future Store UI by Mark Magnusson</a></p>
 
 <h1>Conclusion</h1>
@@ -194,7 +196,9 @@ The name explains themselves.</p>
 <p>In human-computer interaction aspect, there&rsquo;re a lot of things connected together and going on here. The system mostly use ubiquitous computing to manage, set, arrange, and control all the equipment and tools, where human (customers, employees, and managers) who also interact more with the technology itself  experience the better shopping and retailing process.</p>
 
 <p>The combination of various innovative technology and services is truly a crucial factor for trade. It proven to increase efficiency in logistics and in warehouse management, whilst at the same time, giving an individual service and advanced special shopping experience for the customer.
-Surround your pullquote like this {" text to be quoted "}
+{% pullquote left %}
+{&ldquo; So it still depends on consumer&rsquo;s taste and understanding. &rdquo;}
+{% endpullquote %}
 It may actually help and boost customer with shopping experience. It&rsquo;s easier and faster to scan, list, buy, and deliver goods that actually needed. Business happy. Customer happy. But in the other hand, if it mismatched with the user&rsquo;s behavior, the experience could actually break. That&rsquo;s why the actual implementation must meet or fulfill the exact specifications and requirements. Objectively speaking, still, any advancement in innovation and technology is essentially good and useful.</p>
 
 <h1><abbr title="Too Long; Didn't Read">TL;DR</abbr></h1>
